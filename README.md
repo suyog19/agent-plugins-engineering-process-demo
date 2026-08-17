@@ -80,16 +80,6 @@ The useful part of the demonstration is not whether the agent can recite a gener
 
 The same plugin procedure can then be applied to a different repository whose local architecture rules are entirely different.
 
-## Suggested screenshots for the accompanying article
-
-For a compact article demo, capture three images:
-
-1. **Package** — the repository tree showing `plugin.json`, `skills/architecture-review/SKILL.md`, and `demo/ARCHITECTURE.md`.
-2. **Install** — the successful `copilot plugin install ...` output plus the plugin/skill listed in Copilot CLI.
-3. **Execute** — the architecture review output showing findings tied to `demo/ARCHITECTURE.md` and `checkout-service.ts`.
-
-Together they show the full idea: **package → install → apply portable process to local engineering context**.
-
 ## Standards used
 
 The package follows:
