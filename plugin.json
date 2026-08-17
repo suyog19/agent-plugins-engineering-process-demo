@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "engineering-process-demo",
+  "version": "1.0.0",
+  "description": "Demonstrates how Agent Plugins 1.0 can package a reusable software architecture review procedure as a portable engineering capability.",
+  "author": {
+    "name": "Suyog Joshi",
+    "url": "https://suyogjoshi.com"
+  },
+  "repository": "https://github.com/suyog19/agent-plugins-engineering-process-demo",
+  "license": "MIT",
+  "keywords": [
+    "software-engineering",
+    "architecture-review",
+    "agent-skills",
+    "agent-plugins"
+  ]
+}
